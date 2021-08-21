@@ -4,7 +4,6 @@
 <h2>Installation:</h2>
 <ol>
   <li>Drag the RPDeath folder into your server's resources folder.</li>
-  <li>Edit your server.cfg file located in the main folder.</li>
   <li>Add the following code: <b>start DeathScript</b> under the other similar options. Example below.<br/>
 	start mapmanager<br/>
 	start chat<br/>
